@@ -14,7 +14,6 @@ To get started, take a look at the following sections.
 ## Issues
 
 ### Did you spot a problem in superfile?
-
 Firstly you should check if such an issue was previously opened/closed for your problem on the repository. If it doesn't then you should create a new issue.
 
 ### Do you want to solve an issue?
